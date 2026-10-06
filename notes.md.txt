@@ -1,0 +1,5 @@
+Data cleaning notes
+- Checked: 9,994 rows, 21 columns, 0 missing values, 0 duplicate rows
+- Fixed: file encoding converted to UTF-8
+- Fixed: dates converted from M/D/YYYY to YYYY-MM-DD
+- Fixed: postal codes kept as 5-digit text
